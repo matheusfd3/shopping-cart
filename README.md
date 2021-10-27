@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="logo" title="logo" src="src/assets/logo.svg"  />
+</h1>
+
 ## Introdução
 Um projeto de carrinho de compras para um E-Commerce.
 ## Primeiro Acesso
